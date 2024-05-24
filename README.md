@@ -73,7 +73,7 @@ We welcome contributions to enhance these dashboards. If you have new dashboards
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contact
-For any questions or support, please open an issue in this repository or contact us at [your-email@example.com].
+For any questions or support, please open an issue in this repository or contact us at [maqsoodharry4455@gmail.com or +92301-3428-928].
 
 ---
 
